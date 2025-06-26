@@ -4,7 +4,8 @@
       "ID": 10,
       "Forename": "Lionel",
       "Surname": "Messi",
-      "ImageURL": "https://raw.githubusercontent.com/TUO_USERNAME/sm25-young-messi/main/messi18.png"
+      "DateOfBirth": "2007-06-24",
+      "ImageURL": "https://raw.githubusercontent.com/chici28/sm25-young-messi/main/messi18.png"
     }
   ],
   "ClubData": [
@@ -12,21 +13,21 @@
       "ID": 30,
       "Name": "Inter Miami",
       "ShortName": "MIA",
-      "ImageURL": "https://raw.githubusercontent.com/TUO_USERNAME/sm25-young-messi/main/inter-miami-logo.png"
+      "ImageURL": "https://raw.githubusercontent.com/chici28/sm25-young-messi/main/inter-miami-logo.png"
     }
   ],
   "LeagueData": [
     {
       "ID": 28,
       "Name": "Major League Soccer",
-      "ImageURL": "https://raw.githubusercontent.com/TUO_USERNAME/sm25-young-messi/main/mls-logo.png"
+      "ImageURL": "https://raw.githubusercontent.com/chici28/sm25-young-messi/main/mls-logo.png"
     }
   ],
   "CupData": [
     {
       "ID": 2,
       "Name": "MLS Cup",
-      "ImageURL": "https://raw.githubusercontent.com/TUO_USERNAME/sm25-young-messi/main/mls-cup-logo.png"
+      "ImageURL": "https://raw.githubusercontent.com/chici28/sm25-young-messi/main/mls-cup-logo.png"
     }
   ],
   "StadiumData": [
